@@ -602,4 +602,3 @@ Conference on Computer Vision Workshops (ICCVW). pp. 1174–1183 (2021).
 - [66] Yin, X., Wang, X., Yu, J., Zhang, M., Fua, P., Tao, D.: FishEyeRecNet: A multicontext
 collaborative deep network for fisheye image rectification. In: Proceedings
 of European Conference on Computer Vision (ECCV). pp. 475–490 (2018).
-![image](https://user-images.githubusercontent.com/26829971/190950501-12d89485-681a-4e08-aba3-160bf81215c6.png)
