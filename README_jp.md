@@ -580,7 +580,7 @@ Acoustics, Speech, and Signal Processing (ICASSP). pp. 2248–2252 (2020).
 Statistics 35(1), 73–101 (1964).
 - [30] Kannala, J., Brandt, S.S.: A generic camera model and calibration method
 for conventional, wide-angle, and fish-eye lenses. IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI) 28(8), 1335–1340 (2006).
-- [34] Li, X., Zhang, B., Sander, P.V., Liao, J.: Blind geometric distortion correc- tion on images through deep learning. In: Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 4855–4864 (2019).
+- [34] Li, X., Zhang, B., Sander, P.V., Liao, J.: Blind geometric distortion correction on images through deep learning. In: Proceedings of IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). pp. 4855–4864 (2019).
 - [37] Liao, K., Lin, C., Zhao, Y.: A deep ordinal distortion estimation approach for
 distortion rectification. IEEE Transactions on Image Processing (TIP) 30, 3362–
 3375 (2021).
