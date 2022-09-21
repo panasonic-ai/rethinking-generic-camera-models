@@ -4,7 +4,7 @@
   <a href="https://tech-ai.panasonic.com/en/researcher_introduction/050/">Nobuhiko Wakai </a><sup>1,*</sup>, 
   Satoshi Sato <sup>1</sup>, 
   <a href="https://tech-ai.panasonic.com/en/researcher_introduction/003/">Yasunori Ishii </a><sup>1</sup>, 
-  Takayoshi Yamashita <sup>2</sup><br>
+  <a href="http://mprg.cs.chubu.ac.jp/~takayoshi/">Takayoshi Yamashita </a><sup>2</sup><br>
   1 Panasonic Holdings, 2 Chubu University<br>
   * wakai.nobuhiko[at]jp.panasonic.com<br>
   <br>
