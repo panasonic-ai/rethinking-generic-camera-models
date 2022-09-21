@@ -1,11 +1,12 @@
 # Rethinking Generic Camera Models for Deep Single Image Camera Calibration to Recover Rotation and Fisheye Distortion
 
 <p align="center">
-  <a href="https://tech-ai.panasonic.com/jp/researcher_introduction/050/">若井 信彦 </a><sup>1</sup>, 
+  <a href="https://tech-ai.panasonic.com/jp/researcher_introduction/050/">若井 信彦 </a><sup>1,*</sup>, 
   佐藤 智 <sup>1</sup>, 
   <a href="https://tech-ai.panasonic.com/jp/researcher_introduction/003/">石井 育規 </a><sup>1</sup>, 
   山下 隆義 <sup>2</sup><br>
   1 パナソニックホールディングス, 2 中部大学<br>
+  * wakai.nobuhiko[at]jp.panasonic.com<br>
   <br>
   European Conference on Computer Vision (ECCV) 2022
 </p>
