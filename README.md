@@ -35,14 +35,14 @@ Camera calibration is used for various computer vision tasks to recover camera r
 <br>
 <br>
 ### Proposed camera model
-Conventional third-order generic camera models [30], given by
+Conventional generic camera models [30], given by
 $$\gamma = \tilde{k_1} \eta + \tilde{k_2} \eta ^3 + \cdots,$$  
-where $f$ is the focal length, $\tilde{k}$ is a distortion coefficient, and $\gamma$ is the distance between a projected point and the principal point on the image sensor.
+where $\eta$ is an incident angle, $\tilde{k}$ is a distortion coefficient, and $\gamma$ is the distance between a projected point and the principal point on the image sensor.
 
 We propose a generic camera model for learning-based fisheye calibration
 using explicit focal length, given by
 $$\gamma = f(\eta + k_1 \eta ^3),$$
-where $k_1$ is a distortion coefficient. This generic camera model is a third-order polynomial function corresponding to the Taylor series expansion of the trigonometric function in the fisheye camera. Our model has two advantages: 1) our model precisely represents standard fisheye camera models with slight errors, and 2) our camera parameter ranges can be determined by lens specifications and coefficients of the Taylor series expansion.
+where $f$ is the focal length, $k_1$ is a distortion coefficient. This generic camera model is a third-order polynomial function corresponding to the Taylor series expansion of the trigonometric function in the fisheye camera. Our model has two advantages: 1) our model precisely represents standard fisheye camera models with slight errors, and 2) our camera parameter ranges can be determined by lens specifications and coefficients of the Taylor series expansion.
 
 ### Proposed calibration method
 To calibrate various fisheye cameras, we propose a learning-based calibration method that uses our generic camera model, as shown in Figure 1.
