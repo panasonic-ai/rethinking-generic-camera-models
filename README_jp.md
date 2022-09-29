@@ -566,6 +566,7 @@ $$w_{\alpha} = \tilde{w}_{\alpha} / W,$$
 ```
 - 関連プロジェクト
     * Nobuhiko Wakai and Takayoshi Yamashita. Deep Single Fisheye Image Camera Calibration for Over 180-degree Projection of Field of View. In International Conference on Computer Vision Workshop (ICCVW), pages 1174-1183, 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/PBDL/papers/Wakai_Deep_Single_Fisheye_Image_Camera_Calibration_for_Over_180-Degree_Projection_ICCVW_2021_paper.pdf)
+- プレスリリース [[press]](https://news.panasonic.com/jp/press/jn220928-1)
 
 ## 参考文献
 - [2] Alemán-Flores, M., Alvarez, L., Gomez, L., Santana-Cedrés, D.: Automatic lens distortion correction using one-parameter division models. Image Processing On Line (IPOL) 4, 327–343 (2014).
