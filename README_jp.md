@@ -561,6 +561,8 @@ $$w_{\alpha} = \tilde{w}_{\alpha} / W,$$
     author    = {Nobuhiko Wakai and Satoshi Sato and Yasunori Ishii and Takayoshi Yamashita},
     title     = {Rethinking Generic Camera Models for Deep Single Image Camera Calibration to Recover Rotation and Fisheye Distortion},
     booktitle = {{Proceedings of European Conference on Computer Vision (ECCV)}},
+    volume    = {13678},
+    pages     = {679-698},
     year      = {2022}
 }
 ```
