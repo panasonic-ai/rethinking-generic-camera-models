@@ -553,7 +553,7 @@ $$w_{\alpha} = \tilde{w}_{\alpha} / W,$$
 このプロジェクトページ内の説明は著者らのECCV2022を引用して記載
 
 ## リンク
-- ECCV2022: [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668.pdf) [[supp]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668-supp.zip)
+- ECCV2022: [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668.pdf) [[supp]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668-supp.zip) [[poster]](./figure/ECCV2022_Wakai_poster.pdf)
 - arXiv: [[arXiv]](https://arxiv.org/abs/2111.12927)
 - BibTex
 ```tex
