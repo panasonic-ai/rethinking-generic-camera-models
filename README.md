@@ -555,7 +555,7 @@ Comparison of mean PSNR on the test set for the trigonometric function models
 These descriptions on this project page are referred to in our ECCV2022.
 
 ## Links
-- ECCV2022: [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668.pdf) [[supp]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668-supp.zip) [[poster]](./figure/ECCV2022_Wakai_poster.pdf)
+- ECCV2022: [[paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668.pdf) [[supp]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780668-supp.zip) [[poster]](./figure/ECCV2022_Wakai_poster.pdf) [[slide]](./figure/ECCV2022_Wakai_slide.pdf)
 - arXiv: [[arXiv]](https://arxiv.org/abs/2111.12927)
 - BibTex
 ```tex
