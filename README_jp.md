@@ -558,9 +558,9 @@ $$w_{\alpha} = \tilde{w}_{\alpha} / W,$$
 - BibTex
 ```tex
 @INPROCEEDINGS{Wakai_2022_ECCV,
-    author    = {Nobuhiko Wakai and Satoshi Sato and Yasunori Ishii and Takayoshi Yamashita},
+    author    = {Wakai, Nobuhiko and Sato, Satoshi and Ishii, Yasunori and Yamashita, Takayoshi},
     title     = {Rethinking Generic Camera Models for Deep Single Image Camera Calibration to Recover Rotation and Fisheye Distortion},
-    booktitle = {{Proceedings of European Conference on Computer Vision (ECCV)}},
+    booktitle = {European Conference on Computer Vision (ECCV)},
     volume    = {13678},
     pages     = {679-698},
     year      = {2022}
@@ -568,6 +568,7 @@ $$w_{\alpha} = \tilde{w}_{\alpha} / W,$$
 ```
 - 関連プロジェクト
     * Nobuhiko Wakai and Takayoshi Yamashita. Deep Single Fisheye Image Camera Calibration for Over 180-degree Projection of Field of View. In International Conference on Computer Vision Workshop (ICCVW), pages 1174-1183, 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021W/PBDL/papers/Wakai_Deep_Single_Fisheye_Image_Camera_Calibration_for_Over_180-Degree_Projection_ICCVW_2021_paper.pdf)
+    * Nobuhiko Wakai and Satoshi Sato and Yasunori Ishii and Takayoshi Yamashita. Deep Single Image Camera Calibration by Heatmap Regression to Recover Fisheye Images Under Manhattan World Assumption. In IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pages 11884-11894, 2024. [[paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Wakai_Deep_Single_Image_Camera_Calibration_by_Heatmap_Regression_to_Recover_CVPR_2024_paper.pdf) [[project]](https://github.com/panasonic-ai/manhattan-deep-calib)
 - プレスリリース [[press]](https://news.panasonic.com/jp/press/jn220928-1)
 
 ## 参考文献
